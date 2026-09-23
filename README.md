@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hono.dev" target="_blank"><img src="https://cdn.simpleicons.org/hono/E36002" width="28" height="28" alt="Hono" style="background: #242938; padding: 10px; border-radius: 10px; vertical-align: top; margin-right: 4px;" /></a><img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,tailwind,vite,fastapi,django,postgres,supabase,cloudflare,docker,git" alt="Tech Stack" style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,tailwind,vite,fastapi,django,postgres,supabase,cloudflare,docker,git" alt="Tech Stack" />
 </p>
 
 ---
